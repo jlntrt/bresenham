@@ -1,0 +1,9 @@
+name: bresenham
+version: 0.1.0
+
+authors:
+  - Julian Tauert <julian.tauert@gmail.com>
+
+crystal: 0.33.0
+
+license: MIT
